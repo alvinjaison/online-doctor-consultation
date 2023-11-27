@@ -6,8 +6,8 @@
 
 ## Contributors
 
-- **Team Members:** [Mohammed Jawwadul Islam](https://www.linkedin.com/in/jawwadfida/), [Mohammad Fahad Al Rafi](https://www.linkedin.com/in/md-fahad-al-al-rafi-14b968111/), [Moumy Kabir](https://www.linkedin.com/in/pranto-podder-b78b97162/), [Pranto Podder](https://www.linkedin.com/in/aysha-siddika-577ba5224/), [Aysha Siddika](https://www.linkedin.com/in/moumy-kabir-156a0a232/), Nafisa Akhter
-- **Project Duration:** August 2022 - September 2022
+- **Team Members:** [Alvin Jaison ](https://www.linkedin.com/in/alvinjaison/), [Mohammad Thanveer](https://www.linkedin.com/in/thanveer-mohammed/), [Manoj Kumar Reddy Nalla](https://www.linkedin.com/in/pranto-podder-b78b97162/), [Sri Vedhik Adapa](https://www.linkedin.com/in/aysha-siddika-577ba5224/)
+- **Project Duration:** September 2023 - December 2023
 
 
 ## Tools used:

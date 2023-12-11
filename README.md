@@ -94,7 +94,7 @@
       7) Start the application
             python manage.py runserver
       8) Go to browser and enter the following url
-            127.0.0.1:8000(http://127.0.0.1:8000/)
+            http://127.0.0.1:8000/
       9) To access admin page
             http://127.0.0.1:8000/admin/login
       10) make sure to create a superuser to access admin panel

@@ -66,7 +66,7 @@
 #### [Pillow](https://pillow.readthedocs.io/en/stable/index.html) - Python imaging library
 #### [Mailtrap API](https://mailtrap.io/blog/django-send-email/) - smtp fake testing server
 #### [Django Environ](https://django-environ.readthedocs.io/en/latest/) - protecting credentials online (.env file)
-#### [SSLCommerz API](https://github.com/sslcommerz/SSLCommerz-Python) - a payment gateway that provides various payment options in Bangladesh (debit card, credit card, mobile banking, etc.)
+#### [SSLCommerz API](https://github.com/sslcommerz/SSLCommerz-Python) - a payment gateway that provides various payment options in United Kingdom (debit card, credit card, mobile banking, etc.)
 #### [Django Debug Toolbar](https://django-debug-toolbar.readthedocs.io/en/latest/installation.html) - configurable set of panels that display various debug information about the current request/response and when clicked
 #### [xhtml2pdf](https://xhtml2pdf.readthedocs.io/en/latest/usage.html) - to generate and download pdf documents.
 

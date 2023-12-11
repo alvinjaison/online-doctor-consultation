@@ -5,6 +5,24 @@ from .serializers import HospitalSerializer
 from hospital.models import Hospital_Information, Patient, User 
 from doctor.models import Doctor_Information
 
+
+# encryption_utils.py
+
+from cryptography.fernet import Fernet
+from django.conf import settings
+
+def encrypt_data(data):
+    key = settings.ENCRYPTION_KEY  # Use your secure key management mechanism
+    cipher_suite = Fernet(key)
+    return cipher_suite.encrypt(data.encode())
+
+def decrypt_data(cipher_text):
+    key = settings.ENCRYPTION_KEY
+    cipher_suite = Fernet(key)
+    return cipher_suite.decrypt(cipher_text).decode()
+
+
+
 @api_view(['GET'])
 def getRoutes(request):
     # Specify which urls (routes) to accept

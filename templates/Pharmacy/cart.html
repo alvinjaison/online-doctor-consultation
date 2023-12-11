@@ -87,7 +87,7 @@
                       <h3>{{ cart.item.name }}</h3>
                       <p>{{ cart.item.description}}</p>
                     </td>
-                    <td class="price">{{ cart.item.price }} BDT</td>
+                    <td class="price">{{ cart.item.price }} GBP</td>
                     <td>
                       <div class="input-group col-md-6 d-flex mb-3">
                         <span class="input-group-btn mr-2">
@@ -107,7 +107,7 @@
                         </span>
                       </div>
                     </td>
-                    <td class="total">{{ cart.get_total }} BDT</td>
+                    <td class="total">{{ cart.get_total }} GBP</td>
                   </tr>
                 {% endfor %}
               </tbody>
@@ -121,20 +121,20 @@
             <h3>Cart Totals</h3>
             <p class="d-flex">
               <span>Subtotal</span>
-              <span>{{ order.get_totals | floatformat:2 }} BDT</span>
+              <span>{{ order.get_totals | floatformat:2 }} GBP</span>
             </p>
             <p class="d-flex">
               <span>Delivery</span>
-              <span> 40.00 BDT</span>
+              <span> 40.00 GBP</span>
             </p>
             <p class="d-flex">
               <span>Discount</span>
-              <span> 0.00 BDT</span>
+              <span> 0.00 GBP</span>
             </p>
             <hr>
             <p class="d-flex total-price">
               <span>Total</span>
-              <span>{{ order.final_bill | floatformat:2 }} BDT</span>
+              <span>{{ order.final_bill | floatformat:2 }} GBP</span>
             </p>
           
           </div>
@@ -165,7 +165,7 @@
             <h2 class="ftco-heading-2">Have a Questions?</h2>
             <div class="block-23 mb-3">
               <ul>
-                <li><span class="icon icon-map-marker"></span><span class="text">Dhanmondi, Dhaka, Bangladesh.</span></li>
+                <li><span class="icon icon-map-marker"></span><span class="text">Dhanmondi, London, United Kingdom.</span></li>
                 <li><a href="#"><span class="icon icon-phone"></span><span class="text">+2 392 3929 210</span></a></li>
                 <li><a href="#"><span class="icon icon-envelope"></span><span class="text"><span class="__cf_email__"
                         data-cfemail="bed7d0d8d1fec7d1cbccdad1d3dfd7d090ddd1d3">[email&#160;protected]</span></span></a>
